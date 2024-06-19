@@ -14,6 +14,12 @@ As a part of task 2 what I have made is a Windows Desktop application developed 
   - `Ctrl + N` to create a new submission
   - `Ctrl + S` to submit the form
   - `Ctrl + T` to toggle the stopwatch
+ 
+  
+## Demo
+
+https://github.com/Nabanita29/Slidely_AI_Task/assets/107246882/796074c3-959b-4221-9804-d616b8b70745
+
 
 ## Installation
 1. Clone the repository:
@@ -29,11 +35,6 @@ As a part of task 2 what I have made is a Windows Desktop application developed 
 4. Submit the form using Ctrl + S or the submit button.    
 5. Navigate through submissions using the "Previous" and "Next" buttons.
 
-## Demo
-
-
-
-https://github.com/Nabanita29/Slidely_AI_Task/assets/107246882/796074c3-959b-4221-9804-d616b8b70745
 
 
 
